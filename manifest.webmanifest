@@ -1,0 +1,19 @@
+{
+  "name": "LCE, le cerveau externe",
+  "short_name": "Cerveau",
+  "lang": "fr",
+  "start_url": "/cerveau-externe-telechargement/",
+  "scope": "/cerveau-externe-telechargement/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F7F3E8",
+  "theme_color": "#0C4450",
+  "icons": [
+    {
+      "src": "/cerveau-externe-telechargement/icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
